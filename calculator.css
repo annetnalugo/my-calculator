@@ -1,0 +1,25 @@
+
+body{
+    background-color: rgb(243, 61, 146);
+    color: rgb(72, 255, 0);
+    text-align: center;
+    padding: 30px;
+    text-decoration-line: unset;
+    text-decoration-style: dashed;
+    font-style:italic;
+}
+form{
+    margin: 200px;
+}
+table {
+    text-align: center;
+    margin-left: 300px;
+    padding-bottom: 300px;
+    text-decoration-color: rgb(90, 184, 184);
+    border:50px darkkhaki;
+}
+
+input{
+    padding: 20px;
+    background-color:  mediumaquamarine;
+    color: darkgreen;
